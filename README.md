@@ -6,7 +6,7 @@
 - ⚙️ I use daily: `.js`, `.vue`, `.html`, `.css`, `.scss`, `.php`
 - 🖥️ Learning all about **Front-end**
 - 🧠  I'm currently learning **ReactJS**
-- 💬 Ask me about **development**, **project management**, **new technologies** and **new projects**
+- 💬 Ask me about **development**, **project management**, **new technologies** and **projects**
 
 <hr>
 
