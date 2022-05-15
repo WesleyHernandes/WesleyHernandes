@@ -7,8 +7,6 @@
 - 🖥️ Learning all about **Front-end**
 - 🧠  I'm currently learning **ReactJS**
 - 💬 Ask me about **development**, **project management**, **new technologies** and **new projects**
-- 📫 Reach me: [wess.hernandes@gmail.com](mailto:wess.hernandes@gmail.com)
-- ⚡️ Fun fact: I'm a huge fan of Marvel and zombies movies
 
 <hr>
 
