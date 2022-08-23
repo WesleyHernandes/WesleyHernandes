@@ -11,7 +11,6 @@
 <hr>
 
 ### 📬 Find me at
-<a href='https://github.com/WesleyHernandes' target="_blank"><img alt='Github' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=Github&logoColor=white&labelColor=1D84B5&color=0A2239'/></a>
 <a href='https://www.linkedin.com/in/wesley-hernandes-386aa294/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=1D84B5&color=0A2239'/></a>
 <a href='https://www.facebook.com/wesley.hernandes' target="_blank"><img alt='Facebook' src='https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=1D84B5&color=0A2239'/></a>
 <a href='https://www.instagram.com/wesleyhernandesoliveira/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=1D84B5&color=0A2239'/></a>
